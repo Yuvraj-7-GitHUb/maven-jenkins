@@ -21,5 +21,12 @@ public class SampleTest {
 		System.out.println("This will execute..111");
 		
 	}
+
+	
+	@Test
+	public void case222() {
+		System.out.println("This will execute..222");
+		
+	}
 	
 }
