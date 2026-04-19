@@ -29,4 +29,10 @@ public class SampleTest {
 		
 	}
 	
+	@Test
+	public void case22() {
+		System.out.println("This will execute..222");
+		
+	}
+	
 }
